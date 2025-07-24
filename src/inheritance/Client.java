@@ -9,12 +9,5 @@ public class Client {
 //        B b = new B();
 //        b.add();
 //        b.sub();
-
-//        A a1 = new B();
-//        a1.add();
-//        a1.doSomething();
-
-         A a = new C();
-         a.doSomething();
     }
 }
